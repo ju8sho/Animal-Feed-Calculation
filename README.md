@@ -14,17 +14,17 @@ To get started with this project, follow the steps below:
 
 1. **Clone the Repository**
 
-   Clone the repository to your local machine:
+Clone the repository to your local machine:
 
-   ```sh
-   git clone https://github.com/yourusername/animal-feed-calculation.git
-   cd animal-feed-calculation
-   ```
+```sh
+git clone https://github.com/yourusername/animal-feed-calculation.git
+cd animal-feed-calculation
+```
 2. **Build the Docker Image**
 
 Make sure Docker is installed on your system. Build the Docker image with the following command:
 ```sh
-  docker build -t animal_feed_calculation .
+docker build -t animal_feed_calculation .
 ```
 3. **Run the Docker Container**
 
