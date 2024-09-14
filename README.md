@@ -40,7 +40,7 @@ Docker simplifies the deployment of applications. To use Docker with this projec
 
 1. Install Docker
 
-Follow the instructions on the official Docker website to install Docker on your system.
+Follow the instructions on the [Docker installation guide](https://docs.docker.com/engine/install/) to install Docker on your system.
 
 2. Build the Docker Image
 
@@ -49,3 +49,5 @@ Build the Docker image using the docker build command as shown above.
 3. Run the Docker Container
 
 Use the docker run command to run the application in a container.
+
+For more information on Docker, refer to the [Official Docker documentation](https://docs.docker.com/)
